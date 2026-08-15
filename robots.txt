@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-ptseeu.nuansa138win.cfd/sitemap.xml
